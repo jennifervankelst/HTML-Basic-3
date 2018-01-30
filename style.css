@@ -1,0 +1,27 @@
+
+body {
+
+    background: black ;
+
+}
+
+
+p {
+    font-size: 2rem ;
+    color: #ffffff ;
+    
+}
+
+.image {
+position: relative;
+left: 200px;
+top: 100px;
+}
+
+.bouton {
+    
+        display: block;
+        margin: auto;    
+        text-align: center;
+}
+
